@@ -1,0 +1,39 @@
+SOUK-IN - Procédure de Suppression des Données (Data Deletion) 
+
+**Dernière mise à jour : 11 Mai 2026** 
+
+Conformément aux exigences de TikTok for Business et de Meta for Developers, SOUK-IN fournit un moyen simple pour les utilisateurs de demander la suppression de leurs données sociales. 
+
+1. Suppression via l'Application (Recommandé) 
+
+Pour supprimer instantanément vos données liées aux réseaux sociaux : 
+
+Ouvrez l'application **SOUK-IN**. 
+
+Accédez à l'onglet **Paramètres / Profil**. 
+
+Sélectionnez **Sécurité et Confidentialité**. 
+
+Cliquez sur **Supprimer mes données sociales** ou **Supprimer mon compte**. 
+
+Une confirmation vous sera demandée. Une fois validée, tous les jetons d'accès et identifiants TikTok/Meta sont supprimés de nos serveurs. 
+
+ 
+
+2. Demande par Email 
+
+Vous pouvez également envoyer une demande formelle : 
+
+**Email** : support@soukin.ma 
+
+**Objet** : Demande de suppression de données sociales (TikTok/Meta) 
+
+**Contenu** : Veuillez préciser votre nom d'utilisateur et l'adresse email associée à votre compte. 
+
+ 
+
+3. Délais de Traitement 
+
+Les demandes effectuées via l'application sont immédiates. Les demandes par email sont traitées dans un délai maximum de 72 heures ouvrées. Une fois la suppression effectuée, SOUK-IN n'aura plus aucun accès à vos informations sociales jusqu'à votre prochaine connexion volontaire. 
+
+ 
