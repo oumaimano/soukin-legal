@@ -1,0 +1,43 @@
+SOUK-IN - Politique de Confidentialité 
+
+**Dernière mise à jour : 11 Mai 2026** 
+
+ 
+
+1. Engagement de Confidentialité 
+
+La protection de vos données personnelles est une priorité pour SOUK-IN. Cette politique détaille comment nous collectons et traitons vos données conformément aux réglementations en vigueur (notamment la CNDP au Maroc). 
+
+2. Collecte des Données via TikTok et Meta 
+
+Lors de l'utilisation du "Login Kit" (TikTok) ou du "Social Login" (Meta), nous collectons les données suivantes avec votre accord : 
+
+Identifiant unique de l'utilisateur (OpenID / User ID). 
+
+Nom d'affichage, adresse email (si autorisée) et photo de profil. 
+
+Accès aux médias publics (vidéos/posts) uniquement si vous initiez manuellement une action d'importation vers votre boutique SOUK-IN. 
+
+3. Finalités du Traitement 
+
+Vos données sont traitées pour : 
+
+La création et la sécurisation de votre compte utilisateur. 
+
+La personnalisation de votre expérience sur la marketplace. 
+
+La gestion technique des flux de "Live Streaming". 
+
+La prévention de la fraude et la sécurité du système. 
+
+4. Conservation et Sécurité 
+
+Vos données sont stockées sur des serveurs sécurisés et cryptées. Nous ne vendons, ne louons et ne partageons jamais vos données personnelles à des tiers à des fins publicitaires ou marketing. 
+
+5. Vos Droits 
+
+Vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Vous pouvez retirer l'autorisation d'accès aux services tiers (TikTok/Meta) directement depuis les paramètres de votre compte social ou via l'application SOUK-IN. 
+
+6. Contact 
+
+Pour exercer vos droits : support@soukin.ma 
